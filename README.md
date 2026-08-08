@@ -166,29 +166,13 @@ Assisted in securing web traffic and implementing protection measures across com
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavvvv&theme=gitdimmed&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
-</div>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavvvv&bg_color=0D1117&color=58A6FF&line=2F81F7&point=FFFFFF&area=true&hide_border=false&hide_title=false" alt="Activity Graph" />
-</div>
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhinavvvv/abhinavvvv/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
----
 
 ## 🎯 Current Focus
 
