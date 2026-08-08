@@ -2,16 +2,16 @@
 
 # `[ >_ ABHINAV_RATHORE.exe ]`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=>_SYSTEM_READY...;>_ROLE:+FULL_STACK_DEVELOPER;>_CLASS:+CYBER_SECURITY;>_PRESS_START_TO_CONTINUE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=18&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=>_SYSTEM_READY...;>_ROLE:+FULL_STACK_DEVELOPER;>_CLASS:+CYBER_SECURITY;>_PRESS_START_TO_CONTINUE" alt="Typing SVG" /></a>
 
 <br />
 
-<a href="https://linkedin.com/in/abhinav-rathore"><img src="https://img.shields.io/badge/B.Tech_Cyber_Security-000000?style=for-the-badge&logo=academia&logoColor=00FFFF&borderColor=00FFFF" alt="Academic" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Indore,_India-000000?style=for-the-badge&logo=googlemaps&logoColor=00FFFF&borderColor=00FFFF" alt="Location" /></a>
+<a href="https://linkedin.com/in/abhinav-rathore"><img src="https://img.shields.io/badge/B.Tech_Cyber_Security-000000?style=flat-square&logo=academia&logoColor=00FFFF&borderColor=00FFFF" alt="Academic" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Indore,_India-000000?style=flat-square&logo=googlemaps&logoColor=00FFFF&borderColor=00FFFF" alt="Location" /></a>
 <br />
-<a href="https://linkedin.com/in/abhinav-rathore"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF&borderColor=00FFFF" alt="LinkedIn" /></a>
-<a href="mailto:abhinavrathore9399@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFFF&borderColor=00FFFF" alt="Email" /></a>
-<a href="https://github.com/abhinavvvv"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFFF&borderColor=00FFFF" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/abhinav-rathore"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FFFF&borderColor=00FFFF" alt="LinkedIn" /></a>
+<a href="mailto:abhinavrathore9399@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=00FFFF&borderColor=00FFFF" alt="Email" /></a>
+<a href="https://github.com/abhinavvvv"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00FFFF&borderColor=00FFFF" alt="GitHub" /></a>
 
 <br />
 <br />
