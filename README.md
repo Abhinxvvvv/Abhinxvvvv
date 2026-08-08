@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=150&section=header&text=Abhinav%20Rathore&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cyber%20Security&descAlignY=55&descAlign=50&descColor=FFFFFF" alt="header" />
+
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Architecting+Scalable+Infrastructures;Building+Resilient+Distributed+Systems" alt="Typing SVG" /></a>
   
   <br />
@@ -158,10 +160,10 @@ Assisted in securing web traffic and implementing protection measures across com
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavvvv&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=2F81F7&border_color=21262D&hide_border=false" alt="GitHub Stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavvvv&background=0D1117&ring=58A6FF&fire=2F81F7&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9&border=21262D" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavvvv&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=21262D" alt="Top Languages" />
+ 
 </div>
 
 ---
@@ -169,10 +171,9 @@ Assisted in securing web traffic and implementing protection measures across com
 
 ---
 
-
 ---
 
-
+---
 
 ## 🎯 Current Focus
 
