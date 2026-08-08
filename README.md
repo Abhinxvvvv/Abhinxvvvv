@@ -1,6 +1,5 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=150&section=header&text=Abhinav%20Rathore&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cyber%20Security&descAlignY=55&descAlign=50&descColor=FFFFFF" alt="header" />
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Architecting+Scalable+Infrastructures;Building+Resilient+Distributed+Systems" alt="Typing SVG" /></a>
   
