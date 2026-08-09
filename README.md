@@ -26,11 +26,11 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Developer** architecting scalable web infrastructures and resilient distributed systems[cite: 1]. I focus on accelerating platform performance while delivering major features ahead of schedule[cite: 1]. Currently pursuing my B.Tech in Computer Science and Engineering (Cyber Security) at Acropolis Institute of Technology and Research (AITR)[cite: 1], I complement my technical execution with strong community leadership and event management experience[cite: 1].
+I am a **Full Stack Developer** architecting scalable web infrastructures and resilient distributed systems. I focus on accelerating platform performance while delivering major features ahead of schedule. Currently pursuing my B.Tech in Computer Science and Engineering (Cyber Security) at Acropolis Institute of Technology and Research (AITR), I complement my technical execution with strong community leadership and event management experience.
 
-*   💻 **Specialization:** Secure application architecture, REST API integration, and full-stack development[cite: 1].
-*   🧠 **Problem Solving:** Strong foundation in DSA, OOPS, and competitive programming, highlighted by a TCS CodeVita Global Rank of 16249[cite: 1].
-*   🚀 **Leadership & Soft Skills:** Highly persuasive, consultative, and focused on collaborative learning and strategic communication[cite: 1].
+*   💻 **Specialization:** Secure application architecture, REST API integration, and full-stack development.
+*   🧠 **Problem Solving:** Strong foundation in DSA, OOPS, and competitive programming, highlighted by a TCS CodeVita Global Rank of 16249.
+*   🚀 **Leadership & Soft Skills:** Highly persuasive, consultative, and focused on collaborative learning and strategic communication.
 *   📫 **Open To:** Full-stack engineering roles, software development, and innovative back-end or front-end positions.
 
 ---
@@ -55,10 +55,10 @@ I am a **Full Stack Developer** architecting scalable web infrastructures and re
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Full-Stack Development** | Advanced | React.js, Node.js, Express.js, MongoDB, .NET MVC[cite: 1] |
-| **Cyber Security & Networking** | Advanced | PortSwigger, Web Traffic Protection, System Hardening[cite: 1] |
-| **Data Structures & Algorithms** | Advanced | Java, C++, Python, Object-Oriented Programming[cite: 1] |
-| **System Architecture** | Intermediate | REST API design, database integration, scalable infrastructures[cite: 1] |
+| **Full-Stack Development** | Advanced | React.js, Node.js, Express.js, MongoDB, .NET MVC |
+| **Cyber Security & Networking** | Advanced | PortSwigger, Web Traffic Protection, System Hardening |
+| **Data Structures & Algorithms** | Advanced | Java, C++, Python, Object-Oriented Programming |
+| **System Architecture** | Intermediate | REST API design, database integration, scalable infrastructures |
 
 ---
 
@@ -68,13 +68,13 @@ I am a **Full Stack Developer** architecting scalable web infrastructures and re
   <summary><b>VCDC - Virtual Career Development Cell</b></summary>
   
   <br />
-  Designed and developed a web platform centralizing career resources, opportunities, and student guidance[cite: 1].
+  Designed and developed a web platform centralizing career resources, opportunities, and student guidance.
 
   | Attribute | Details |
   | :--- | :--- |
   | **Stack** | Full-Stack Web Technologies |
   | **Scale** | Campus-wide resource centralization |
-  | **Performance** | Built a responsive interface to streamline access to placements, mentorship, and skill-building content[cite: 1] |
+  | **Performance** | Built a responsive interface to streamline access to placements, mentorship, and skill-building content |
   | **Repository** | [View on GitHub](https://github.com/abhinavvvv) |
 </details>
 
@@ -82,13 +82,13 @@ I am a **Full Stack Developer** architecting scalable web infrastructures and re
   <summary><b>Flow Inventory Project</b></summary>
   
   <br />
-  A robust Python-based inventory application designed to track real-time stock levels and predict future product demand and supply to support purchasing and planning[cite: 1].
+  A robust Python-based inventory application designed to track real-time stock levels and predict future product demand and supply to support purchasing and planning.
 
   | Attribute | Details |
   | :--- | :--- |
-  | **Stack** | Python, Predictive Data Modeling[cite: 1] |
+  | **Stack** | Python, Predictive Data Modeling |
   | **Scale** | Enterprise inventory tracking |
-  | **Impact** | Supported accurate purchasing and resource planning[cite: 1] |
+  | **Impact** | Supported accurate purchasing and resource planning |
   | **Repository** | [View on GitHub](https://github.com/abhinavvvv) |
 </details>
 
@@ -96,13 +96,13 @@ I am a **Full Stack Developer** architecting scalable web infrastructures and re
   <summary><b>Secure Data Wiping (SIH 2025)</b></summary>
   
   <br />
-  Selected for screening (Problem Code: SIH25070); developed a solution focused on secure data wiping[cite: 1].
+  Selected for screening (Problem Code: SIH25070); developed a solution focused on secure data wiping.
 
   | Attribute | Details |
   | :--- | :--- |
   | **Stack** | Cyber Security Tools, System Level Programming |
   | **Performance** | Secure, unrecoverable data sanitation |
-  | **Recognition** | Top 10 teams of SIH 2025 Internal Hackathon[cite: 1] |
+  | **Recognition** | Top 10 teams of SIH 2025 Internal Hackathon |
   | **Repository** | [View on GitHub](https://github.com/abhinavvvv) |
 </details>
 
@@ -111,31 +111,31 @@ I am a **Full Stack Developer** architecting scalable web infrastructures and re
 ## 💼 Experience
 
 **Full Stack Developer** @ **Extrnxt Labs Pvt Ltd**
-*Mar 2026 - Jul 2026*[cite: 1]
+*Mar 2026 - Jul 2026*
 
-Developed end-to-end web applications, building responsive front-end interfaces and robust back-end services[cite: 1].
-* Implemented RESTful APIs and integrated databases to deliver scalable, production-ready features[cite: 1].
-* Worked on Python projects for simulation-based applications, modeling real-world scenarios and data flows[cite: 1].
+Developed end-to-end web applications, building responsive front-end interfaces and robust back-end services.
+* Implemented RESTful APIs and integrated databases to deliver scalable, production-ready features.
+* Worked on Python projects for simulation-based applications, modeling real-world scenarios and data flows.
 
 `#React` `#NodeJS` `#Python` `#MongoDB` `#REST_API`
 
 <br />
 
 **Frontend Developer** @ **Extrnxt Labs Pvt Ltd**
-*Nov 2025 - Dec 2025*[cite: 1]
+*Nov 2025 - Dec 2025*
 
-Built responsive, cross-browser user interfaces using HTML, CSS, and JavaScript[cite: 1].
-* Collaborated with the design team to translate UI/UX mockups into pixel-perfect, functional web pages[cite: 1].
+Built responsive, cross-browser user interfaces using HTML, CSS, and JavaScript.
+* Collaborated with the design team to translate UI/UX mockups into pixel-perfect, functional web pages.
 
 `#JavaScript` `#HTML` `#CSS` `#UI_UX`
 
 <br />
 
 **Software Engineer Intern** @ **Cyber Secured India**
-*Apr 2025 - Jun 2025*[cite: 1]
+*Apr 2025 - Jun 2025*
 
-Assisted in securing web traffic and implementing protection measures across company platforms[cite: 1].
-* Identified and mitigated potential dangers in web traffic to enhance overall system security[cite: 1].
+Assisted in securing web traffic and implementing protection measures across company platforms.
+* Identified and mitigated potential dangers in web traffic to enhance overall system security.
 
 `#CyberSecurity` `#NetworkSecurity` `#PortSwigger`
 
@@ -147,10 +147,10 @@ Assisted in securing web traffic and implementing protection measures across com
 
 | Recognition | Details |
 | :---: | :--- |
-| 🥇 **Global Ranker** | TCS CodeVita Global Rank 16249 in a national-level competitive coding contest[cite: 1]. |
-| ⭐ **Hackathon Finalist** | Top 10 teams of SIH 2025 Internal Hackathon - project on Secure Data Wiping[cite: 1]. |
-| 🚀 **Research Selection** | Research idea selected for the National Symposium on Sustainable Applications for Future Environment, organized by CSIT & Cyber Security, AITR Indore[cite: 1]. |
-| 📜 **Security Certified** | OPSWAT Web Traffic Protection Associate & ISEA Cyber Hygiene Practitioner[cite: 1]. |
+| 🥇 **Global Ranker** | TCS CodeVita Global Rank 16249 in a national-level competitive coding contest. |
+| ⭐ **Hackathon Finalist** | Top 10 teams of SIH 2025 Internal Hackathon - project on Secure Data Wiping. |
+| 🚀 **Research Selection** | Research idea selected for the National Symposium on Sustainable Applications for Future Environment, organized by CSIT & Cyber Security, AITR Indore. |
+| 📜 **Security Certified** | OPSWAT Web Traffic Protection Associate & ISEA Cyber Hygiene Practitioner. |
 
 </div>
 
