@@ -1,10 +1,10 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Engineer;Architecting+Scalable+Infrastructures;Building+Resilient+Distributed+Systems" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Architecting+Scalable+Infrastructures;Building+Resilient+Distributed+Systems" alt="Typing SVG" /></a>
   
   <br />
 
-  <a href="https://linkedin.com/in/abhinav-rathore"><img src="https://img.shields.io/badge/B.Tech_Computer_Science-0D1117?style=for-the-badge&logo=academia&logoColor=58A6FF&borderColor=2F81F7" alt="Academic" /></a>
+  <a href="https://linkedin.com/in/abhinav-rathore"><img src="https://img.shields.io/badge/B.Tech_Cyber_Security-0D1117?style=for-the-badge&logo=academia&logoColor=58A6FF&borderColor=2F81F7" alt="Academic" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Indore,_India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF&borderColor=2F81F7" alt="Location" /></a>
   <br />
   <a href="https://linkedin.com/in/abhinav-rathore"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&borderColor=2F81F7" alt="LinkedIn" /></a>
@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Developer** architecting scalable web infrastructures and resilient distributed systems. Currently pursuing my B.Tech in Computer Science and Engineering at Acropolis Institute of Technology and Research (AITR). I focus on accelerating platform performance, building robust systems, and delivering production-ready features ahead of schedule.
+I am a **Full Stack Developer** architecting scalable web infrastructures and resilient distributed systems. Currently pursuing B.Tech in Computer Science and Engineering with a specialization in **Cyber Security** at Acropolis Institute of Technology and Research (AITR). I focus on accelerating platform performance, securing web traffic, and delivering production-ready features ahead of schedule.
 
 *   🔐 **Specialization:** Secure application architecture, RESTful API integration, and full-stack development.
 *   💻 **Problem Solving:** Strong foundation in DSA, OOPS, and competitive programming (TCS CodeVita Global Rank).
@@ -54,7 +54,7 @@ I am a **Full Stack Developer** architecting scalable web infrastructures and re
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
 | **Full-Stack Development** | Advanced | React.js, Node.js, Express.js, MongoDB, .NET MVC |
-| **Web & Networking** | Advanced | API Integration, Web Traffic Optimization, System Hardening |
+| **Cyber Security & Networking** | Advanced | PortSwigger, Web Traffic Protection, System Hardening |
 | **Data Structures & Algorithms** | Advanced | Java, C++, Python, Object-Oriented Programming |
 | **System Architecture** | Intermediate | RESTful API design, database integration, scalable infrastructures |
 
@@ -99,7 +99,7 @@ I am a **Full Stack Developer** architecting scalable web infrastructures and re
 
   | Attribute | Details |
   | :--- | :--- |
-  | **Stack** | System Level Programming, Data Management Tools |
+  | **Stack** | Cyber Security Tools, System Level Programming |
   | **Performance** | Secure, unrecoverable data sanitation |
   | **Recognition** | Selected for screening; Top 10 internal hackathon teams |
   | **Repository** | [View on GitHub](https://github.com/abhinavvvv) |
@@ -134,9 +134,9 @@ Built responsive, cross-browser user interfaces focusing on accessibility and pe
 *Apr 2025 - Jun 2025*
 
 Assisted in securing web traffic and implementing protection measures across company platforms.
-* Identified and mitigated potential dangers in web traffic to enhance overall system stability and reliability.
+* Identified and mitigated potential dangers in web traffic to enhance overall system security.
 
-`#WebSecurity` `#NetworkOptimization` `#SystemHardening`
+`#CyberSecurity` `#NetworkSecurity` `#PortSwigger`
 
 ---
 
@@ -176,7 +176,7 @@ Current_Focus:
   Building: 
     - "Scalable Microservices with Node.js"
   Exploring: 
-    - "AI Integration in Web Apps"
+    - "Cloud-Native Technologies"
   Open_To: 
     - "Full-Stack Development Roles"
-    - "Backend Engineering Positions"
+    - "Software Engineering Positions"
