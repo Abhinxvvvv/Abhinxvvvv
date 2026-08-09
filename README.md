@@ -142,14 +142,14 @@ Assisted in securing web traffic and implementing protection measures across com
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
+<div align="left">
 
 | Recognition | Details |
 | :---: | :--- |
-| 🥇 **Global Ranker** | TCS CodeVita Global Rank 16249 in a national-level competitive coding contest. |
-| ⭐ **Hackathon Finalist** | Top 10 teams of SIH 2025 Internal Hackathon - project on Secure Data Wiping. |
-| 🚀 **Research Selection** | Research idea selected for the National Symposium on Sustainable Applications for Future Environment, organized by CSIT & Cyber Security, AITR Indore. |
-| 📜 **Security Certified** | OPSWAT Web Traffic Protection Associate & ISEA Cyber Hygiene Practitioner. |
+|  **Global Ranker** 🥇| TCS CodeVita Global Rank 16249 in a national-level competitive coding contest. |
+|  **Hackathon Finalist** ⭐| Top 10 teams of SIH 2025 Internal Hackathon - project on Secure Data Wiping. |
+|  **Research Selection** 🚀| Research idea selected for the National Symposium on Sustainable Applications for Future Environment, organized by CSIT & Cyber Security, AITR Indore. |
+|  **Security Certified** 📜| OPSWAT Web Traffic Protection Associate & ISEA Cyber Hygiene Practitioner. |
 
 </div>
 
