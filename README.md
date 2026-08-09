@@ -1,24 +1,24 @@
 <div align="center">
   
- 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1&color=39FF14&center=true&vCenter=true&width=500&lines=Abhinav+Rathore" alt="Abhinav Rathore" />
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Code+Build+Deploy;Full+Stack+Developer;CSE+%40+AITR%2727;Architecting+Scalable+Infrastructures;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Code+Build+Deploy;Full+Stack+Developer;CSE+%40+AITR%2727;Architecting+Scalable+Infrastructures;" alt="Typing SVG" /></a>
   
   <br />
 
-  <a href="https://linkedin.com/in/abhinav-rathore"><img src="https://img.shields.io/badge/B.Tech_Cyber_Security-0D1117?style=for-the-badge&logo=academia&logoColor=58A6FF&borderColor=2F81F7" alt="Academic" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Indore,_India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF&borderColor=2F81F7" alt="Location" /></a>
+  <a href="https://linkedin.com/in/abhinav-rathore"><img src="https://img.shields.io/badge/B.Tech_Cyber_Security-0D1117?style=for-the-badge&logo=academia&logoColor=39FF14&borderColor=39FF14" alt="Academic" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Indore,_India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=39FF14&borderColor=39FF14" alt="Location" /></a>
   <br />
-  <a href="https://linkedin.com/in/abhinav-rathore"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&borderColor=2F81F7" alt="LinkedIn" /></a>
-  <a href="mailto:abhinavrathore9399@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&borderColor=2F81F7" alt="Email" /></a>
-  <a href="https://github.com/abhinavvvv"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&borderColor=2F81F7" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/abhinav-rathore"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14&borderColor=39FF14" alt="LinkedIn" /></a>
+  <a href="mailto:abhinavrathore9399@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14&borderColor=39FF14" alt="Email" /></a>
+  <a href="https://github.com/abhinavvvv"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14&borderColor=39FF14" alt="GitHub" /></a>
   
   <br />
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=abhinavvvv&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abhinavvvv?label=Followers&style=flat-square&color=2F81F7" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/abhinavvvv?style=flat-square&color=2F81F7" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=abhinavvvv&label=Profile%20Views&color=39FF14&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/abhinavvvv?label=Followers&style=flat-square&color=39FF14" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/abhinavvvv?style=flat-square&color=39FF14" alt="Stars" />
 
 </div>
 
@@ -160,7 +160,7 @@ Assisted in securing web traffic and implementing protection measures across com
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavvvv&background=0D1117&ring=58A6FF&fire=2F81F7&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9&border=21262D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavvvv&background=0D1117&ring=39FF14&fire=39FF14&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=39FF14&sideLabels=39FF14&dates=C9D1D9&border=21262D" alt="GitHub Streak" />
   <br />
  
 </div>
