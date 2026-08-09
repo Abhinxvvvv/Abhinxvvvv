@@ -1,6 +1,8 @@
 <div align="center">
+  
+  <h1>Hi there, I'm Abhinav Rathore 👋</h1>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Architecting+Scalable+Infrastructures;Building+Resilient+Distributed+Systems" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Software+Engineer;Architecting+Scalable+Infrastructures;Delivering+Features+Ahead+of+Schedule" alt="Typing SVG" /></a>
   
   <br />
 
@@ -24,12 +26,12 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Developer** architecting scalable web infrastructures and resilient distributed systems. Currently pursuing B.Tech in Computer Science and Engineering with a specialization in **Cyber Security** at Acropolis Institute of Technology and Research (AITR). I focus on accelerating platform performance, securing web traffic, and delivering production-ready features ahead of schedule.
+I am a **Full Stack Developer** architecting scalable web infrastructures and resilient distributed systems[cite: 1]. I focus on accelerating platform performance while delivering major features ahead of schedule[cite: 1]. Currently pursuing my B.Tech in Computer Science and Engineering (Cyber Security) at Acropolis Institute of Technology and Research (AITR)[cite: 1], I complement my technical execution with strong community leadership and event management experience[cite: 1].
 
-*   🔐 **Specialization:** Secure application architecture, RESTful API integration, and full-stack development.
-*   💻 **Problem Solving:** Strong foundation in DSA, OOPS, and competitive programming (TCS CodeVita Global Rank).
-*   🚀 **Mindset:** Complements technical execution with strong community leadership and strategic communication.
-*   📫 **Open To:** Full-stack engineering roles, backend development, and innovative software development projects.
+*   💻 **Specialization:** Secure application architecture, REST API integration, and full-stack development[cite: 1].
+*   🧠 **Problem Solving:** Strong foundation in DSA, OOPS, and competitive programming, highlighted by a TCS CodeVita Global Rank of 16249[cite: 1].
+*   🚀 **Leadership & Soft Skills:** Highly persuasive, consultative, and focused on collaborative learning and strategic communication[cite: 1].
+*   📫 **Open To:** Full-stack engineering roles, software development, and innovative back-end or front-end positions.
 
 ---
 
@@ -53,10 +55,10 @@ I am a **Full Stack Developer** architecting scalable web infrastructures and re
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Full-Stack Development** | Advanced | React.js, Node.js, Express.js, MongoDB, .NET MVC |
-| **Cyber Security & Networking** | Advanced | PortSwigger, Web Traffic Protection, System Hardening |
-| **Data Structures & Algorithms** | Advanced | Java, C++, Python, Object-Oriented Programming |
-| **System Architecture** | Intermediate | RESTful API design, database integration, scalable infrastructures |
+| **Full-Stack Development** | Advanced | React.js, Node.js, Express.js, MongoDB, .NET MVC[cite: 1] |
+| **Cyber Security & Networking** | Advanced | PortSwigger, Web Traffic Protection, System Hardening[cite: 1] |
+| **Data Structures & Algorithms** | Advanced | Java, C++, Python, Object-Oriented Programming[cite: 1] |
+| **System Architecture** | Intermediate | REST API design, database integration, scalable infrastructures[cite: 1] |
 
 ---
 
@@ -66,14 +68,13 @@ I am a **Full Stack Developer** architecting scalable web infrastructures and re
   <summary><b>VCDC - Virtual Career Development Cell</b></summary>
   
   <br />
-  Designed and developed a comprehensive web platform centralizing career resources, placement opportunities, and student guidance.
+  Designed and developed a web platform centralizing career resources, opportunities, and student guidance[cite: 1].
 
   | Attribute | Details |
   | :--- | :--- |
   | **Stack** | Full-Stack Web Technologies |
   | **Scale** | Campus-wide resource centralization |
-  | **Performance** | Optimized responsive interface for high-traffic access |
-  | **Impact** | Streamlined access to mentorship and skill-building content |
+  | **Performance** | Built a responsive interface to streamline access to placements, mentorship, and skill-building content[cite: 1] |
   | **Repository** | [View on GitHub](https://github.com/abhinavvvv) |
 </details>
 
@@ -81,13 +82,13 @@ I am a **Full Stack Developer** architecting scalable web infrastructures and re
   <summary><b>Flow Inventory Project</b></summary>
   
   <br />
-  A robust Python-based inventory application designed to track real-time stock levels and predict future product demand and supply.
+  A robust Python-based inventory application designed to track real-time stock levels and predict future product demand and supply to support purchasing and planning[cite: 1].
 
   | Attribute | Details |
   | :--- | :--- |
-  | **Stack** | Python, Predictive Data Modeling |
+  | **Stack** | Python, Predictive Data Modeling[cite: 1] |
   | **Scale** | Enterprise inventory tracking |
-  | **Impact** | Supported accurate purchasing and resource planning |
+  | **Impact** | Supported accurate purchasing and resource planning[cite: 1] |
   | **Repository** | [View on GitHub](https://github.com/abhinavvvv) |
 </details>
 
@@ -95,13 +96,13 @@ I am a **Full Stack Developer** architecting scalable web infrastructures and re
   <summary><b>Secure Data Wiping (SIH 2025)</b></summary>
   
   <br />
-  Developed an advanced solution focused on secure data wiping for the Smart India Hackathon (Problem Code: SIH25070).
+  Selected for screening (Problem Code: SIH25070); developed a solution focused on secure data wiping[cite: 1].
 
   | Attribute | Details |
   | :--- | :--- |
   | **Stack** | Cyber Security Tools, System Level Programming |
   | **Performance** | Secure, unrecoverable data sanitation |
-  | **Recognition** | Selected for screening; Top 10 internal hackathon teams |
+  | **Recognition** | Top 10 teams of SIH 2025 Internal Hackathon[cite: 1] |
   | **Repository** | [View on GitHub](https://github.com/abhinavvvv) |
 </details>
 
@@ -110,31 +111,31 @@ I am a **Full Stack Developer** architecting scalable web infrastructures and re
 ## 💼 Experience
 
 **Full Stack Developer** @ **Extrnxt Labs Pvt Ltd**
-*Mar 2026 - Jul 2026*
+*Mar 2026 - Jul 2026*[cite: 1]
 
-Developed end-to-end web applications, building responsive front-end interfaces and robust back-end services.
-* Implemented RESTful APIs and integrated databases to deliver scalable, production-ready features.
-* Worked on Python projects for simulation-based applications, modeling real-world scenarios and data flows.
+Developed end-to-end web applications, building responsive front-end interfaces and robust back-end services[cite: 1].
+* Implemented RESTful APIs and integrated databases to deliver scalable, production-ready features[cite: 1].
+* Worked on Python projects for simulation-based applications, modeling real-world scenarios and data flows[cite: 1].
 
 `#React` `#NodeJS` `#Python` `#MongoDB` `#REST_API`
 
 <br />
 
 **Frontend Developer** @ **Extrnxt Labs Pvt Ltd**
-*Nov 2025 - Dec 2025*
+*Nov 2025 - Dec 2025*[cite: 1]
 
-Built responsive, cross-browser user interfaces focusing on accessibility and performance.
-* Collaborated with the design team to translate UI/UX mockups into pixel-perfect, functional web pages using HTML, CSS, and JavaScript.
+Built responsive, cross-browser user interfaces using HTML, CSS, and JavaScript[cite: 1].
+* Collaborated with the design team to translate UI/UX mockups into pixel-perfect, functional web pages[cite: 1].
 
 `#JavaScript` `#HTML` `#CSS` `#UI_UX`
 
 <br />
 
 **Software Engineer Intern** @ **Cyber Secured India**
-*Apr 2025 - Jun 2025*
+*Apr 2025 - Jun 2025*[cite: 1]
 
-Assisted in securing web traffic and implementing protection measures across company platforms.
-* Identified and mitigated potential dangers in web traffic to enhance overall system security.
+Assisted in securing web traffic and implementing protection measures across company platforms[cite: 1].
+* Identified and mitigated potential dangers in web traffic to enhance overall system security[cite: 1].
 
 `#CyberSecurity` `#NetworkSecurity` `#PortSwigger`
 
@@ -146,10 +147,10 @@ Assisted in securing web traffic and implementing protection measures across com
 
 | Recognition | Details |
 | :---: | :--- |
-| 🥇 **Global Ranker** | Secured Global Rank 16249 in TCS CodeVita national-level competitive coding contest. |
-| ⭐ **Hackathon Finalist** | Top 10 teams of SIH 2025 Internal Hackathon for Secure Data Wiping project. |
-| 🚀 **Research Selection** | Idea selected for the National Symposium on Sustainable Applications for Future Environment. |
-| 📜 **Security Certified** | OPSWAT Web Traffic Protection Associate & ISEA Cyber Hygiene Practitioner. |
+| 🥇 **Global Ranker** | TCS CodeVita Global Rank 16249 in a national-level competitive coding contest[cite: 1]. |
+| ⭐ **Hackathon Finalist** | Top 10 teams of SIH 2025 Internal Hackathon - project on Secure Data Wiping[cite: 1]. |
+| 🚀 **Research Selection** | Research idea selected for the National Symposium on Sustainable Applications for Future Environment, organized by CSIT & Cyber Security, AITR Indore[cite: 1]. |
+| 📜 **Security Certified** | OPSWAT Web Traffic Protection Associate & ISEA Cyber Hygiene Practitioner[cite: 1]. |
 
 </div>
 
