@@ -168,14 +168,13 @@ Assisted in securing web traffic and implementing protection measures across com
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 All-Time Contribution Graph
 
 <div align="center">
   <picture>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Abhinxvvvv/Abhinxvvvv/output/github-snake.svg">
+    <img alt="3D GitHub Contributions" src="https://raw.githubusercontent.com/Abhinxvvvv/Abhinxvvvv/main/profile-3d-contrib/profile-nord.svg">
   </picture>
 </div>
-
 ---
 
 ## 🎯 Current Focus
