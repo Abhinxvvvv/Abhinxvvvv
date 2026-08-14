@@ -168,6 +168,18 @@ Assisted in securing web traffic and implementing protection measures across com
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+  <a href="https://github.com/Abhinxvvvv">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinxvvvv&bg_color=0D1117&color=88C0D0&line=88C0D0&point=C9D1D9&area=true&hide_border=true&title_color=88C0D0" alt="GitHub Contribution Graph" />
+  </a>
+ 
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 ```yaml
