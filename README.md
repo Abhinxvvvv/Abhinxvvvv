@@ -170,8 +170,6 @@ Assisted in securing web traffic and implementing protection measures across com
 
 ## 📈 Contribution Graph
 
-## 📈 Contribution Graph
-
 <div align="center">
 
   <a href="https://github.com/Abhinxvvvv">
