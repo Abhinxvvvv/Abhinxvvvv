@@ -171,10 +171,9 @@ Assisted in securing web traffic and implementing protection measures across com
 ## 📈 All-Time Contribution Graph
 
 <div align="center">
-  <picture>
-    <img alt="3D GitHub Contributions" src="https://raw.githubusercontent.com/Abhinxvvvv/Abhinxvvvv/main/profile-3d-contrib/profile-nord.svg">
-  </picture>
+  <img alt="3D GitHub Contributions" src="profile-3d-contrib/profile-nord.svg" />
 </div>
+
 ---
 
 ## 🎯 Current Focus
