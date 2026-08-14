@@ -168,12 +168,13 @@ Assisted in securing web traffic and implementing protection measures across com
 
 ---
 
-## 📈 All-Time Contribution Graph
+## 🏆 All-Time Milestones
 
 <div align="center">
-  <img alt="3D GitHub Contributions" src="profile-3d-contrib/profile-night-view.svg" />
+  <a href="https://github.com/Abhinxvvvv">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abhinxvvvv&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
-
 ---
 
 ## 🎯 Current Focus
