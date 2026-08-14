@@ -171,7 +171,7 @@ Assisted in securing web traffic and implementing protection measures across com
 ## 📈 All-Time Contribution Graph
 
 <div align="center">
-  <img alt="3D GitHub Contributions" src="profile-3d-contrib/profile-nord.svg" />
+  <img alt="3D GitHub Contributions" src="profile-3d-contrib/profile-night-view.svg" />
 </div>
 
 ---
