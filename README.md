@@ -10,7 +10,7 @@
   <br />
   <a href="https://www.linkedin.com/in/abhinav-rathore-52778728b"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=88C0D0&borderColor=88C0D0" alt="LinkedIn" /></a>
   <a href="mailto:abhinavrathore9399@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=88C0D0&borderColor=88C0D0" alt="Email" /></a>
-  <a href="https://github.com/abhinavvvv"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=88C0D0&borderColor=88C0D0" alt="GitHub" /></a>
+  <a href="https://github.com/abhinxvvvv"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=88C0D0&borderColor=88C0D0" alt="GitHub" /></a>
   
   <br />
   <br />
